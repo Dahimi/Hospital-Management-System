@@ -55,7 +55,7 @@
 
 
 <!-- Add banner here -->
-![Banner](https://github.com/Dahimi/Hospital-Management-System/blob/main/accueil.png)
+![Banner](https://github.com/Dahimi/Hospital-Management-System/blob/main/accueil2.png)
 
 # Hospital Management System
 
@@ -75,7 +75,7 @@ This is project is a hospital management system that will help doctors, nurses a
 <!-- Add a demo for your project -->
 Here is demo of the final resualts I got in this project 
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Random GIF](https://github.com/Dahimi/Hospital-Management-System/blob/main/accueil.png)
 
 # Table of contents
  
