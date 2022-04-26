@@ -55,9 +55,9 @@
 
 
 <!-- Add banner here -->
-![Banner](https://github.com/Dahimi/SQL-and-Data-Visualization-Projects/blob/main/banner.jpg)
+![Banner](https://github.com/Dahimi/Hospital-Management-System/blob/main/accueil.png)
 
-# SQL and Visualization Projects
+# Hospital Management System
 
 <!-- Add buttons here -->
 
@@ -69,7 +69,7 @@
 
 <!-- Describe your project in brief -->
 
-The project title should be self-explanatory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+This is project is a hospital management system that will help doctors, nurses and all the staff manage their working hours as well as the patients data.
 
 # Demo-Preview
 <!-- Add a demo for your project -->
@@ -89,30 +89,13 @@ Here is demo of the final resualts I got in this project
 
 # Installation
 
-*You might have noticed the **Back to top** button(if not, please notice, it's right there!). This is a good idea because it makes your README **easy to navigate.*** 
-
-The first one should be how to install(how to generally use your project or set-up for editing in their machine).
-
-This should give the users a concrete idea with instructions on how they can use your project repo with all the steps.
-
-Following this steps, **they should be able to run this in their device.**
-
-A method I use is after completing the README, I go through the instructions from scratch and check if it is working.
-
-Here is a sample instruction:
-
-To use this project, first clone the repo on your device using the command below:
-
-```git init```
-
-```git clone https://github.com/Dahimi/nsfw-filter.git```
+Please follow the steps in the instruction text file.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Usage
 
-
-This is optional and it is used to give the user info on how to use the project after installation. This could be added in the Installation section also.
+For more usage info, just take a look at the instruction text file.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
